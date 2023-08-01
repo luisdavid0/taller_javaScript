@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    max-width: 100%;
+    margin: auto;
+    text-align: center;
+    background-image: url(../ma.png);
+    background-repeat: no-repeat;
+}
+
+body h1 {
+    text-align: center;
+    color: f0e109;
+}
+
+.container {
+    background: #f5f5f5;
+    color: #0d0d0d;
+    margin: auto;
+    max-width: 800px;
+    padding: 10px;
+}
+
+.container form {
+    margin: auto;
+    background: #f5f1f1;
+    padding: 30px;
+    max-width: 700px;
+    border-radius: 5px;
+}
+
+.container form hr {
+    margin: auto;
+}
+
+.container form label {
+    margin: auto;
+}
+
+.container label {
+    padding: 20px;
+    margin: 0px 100%;
+}
+
+.container input {
+    margin: 5px;
+    width: 120px;
+}
+
+.btn {
+    margin: 5px auto;
+    padding: 20px;
+    box-shadow: 4px 4px rgba(0, 0, 0, .5);
+}
